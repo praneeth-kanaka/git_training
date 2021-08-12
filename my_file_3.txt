@@ -1,1 +1,2 @@
 Changing the content in File 3
+Adding a new line to test MERGE on GIT
