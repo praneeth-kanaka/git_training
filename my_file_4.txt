@@ -1,1 +1,5 @@
+
 Inserting a new line again to test the git stashing
+
+Adding a new line to test the git stashing
+
